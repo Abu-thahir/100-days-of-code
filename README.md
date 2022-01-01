@@ -5,7 +5,7 @@
 
 |Day|Title|Description|Language|Source|Link|
 |--|--|--|--|--|--|
-|1| Kadane's Algorithm | Find the Maximum Subarray Sum | C++ & Python| <a href="https://leetcode.com/problems/maximum-subarray/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2001">View Code</a>|
+|1| Two Pointers Algorithm | Find the Maximum area |  Python| <a href="https://practice.geeksforgeeks.org/problems/10471201e923a0b88a0c1482e6c7e8cc6fdfe93a/1">GeeksForGeeks</a>|<a href="https://github.com/Abu-thahir/100-days-of-code/blob/main/Day%201/readme.md">View Code</a>|
 |2||||||
 |3||||||
 |4||||||
