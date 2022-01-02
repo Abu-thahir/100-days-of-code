@@ -6,7 +6,7 @@
 |Day|Title|Description|Language|Source|Link|
 |--|--|--|--|--|--|
 |1| Two Pointers Algorithm | Find the Maximum area |  Python| <a href="https://practice.geeksforgeeks.org/problems/10471201e923a0b88a0c1482e6c7e8cc6fdfe93a/1">GeeksForGeeks</a>|<a href="https://github.com/Abu-thahir/100-days-of-code/blob/main/Day%201/readme.md">View Code</a>|
-|2| Dutch National Flag Algorithm | Sort an array of 0's,1's and 2's .| Python | <a> href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1">GeeksForGeeks</a>|<a href='https://github.com/Abu-thahir/100-days-of-code/tree/main/Day%202/readme.md'>View Code</a>|
+|2| Dutch National Flag Algorithm | Sort an array of 0's,1's and 2's .| Python | <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1">GeeksForGeeks</a>|<a href='https://github.com/Abu-thahir/100-days-of-code/tree/main/Day%202/readme.md'>View Code</a>|
 |3||||||
 |4||||||
 |5||||||
