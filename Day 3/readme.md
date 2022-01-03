@@ -11,8 +11,7 @@ categories:
 
 ### Code [python]
 
-```
-python3
+```python3
 class Solution:
     
     def maximumMeetings(self,n,start,end):
@@ -35,5 +34,4 @@ class Solution:
 > Time Complexity =  O(N*LogN)
 
 > Space Complexity = O(N)
-
 ```
