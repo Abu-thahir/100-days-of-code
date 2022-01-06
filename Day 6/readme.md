@@ -13,7 +13,7 @@ categories:
 a[] = {0, 5, 1, 2, 4, 3}
 Output: 0 3 5 1 4 2
 Explanation: After reshuffling, the modified 
-position of all the students would be 
+position of all the elements would be 
 {0, 3, 5, 1, 4, 2}
 ```
 
