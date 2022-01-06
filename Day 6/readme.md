@@ -8,6 +8,15 @@ categories:
 ### Question
 
 > Given an array of size n where all elements are distinct and in range from 0 to n-1, change contents of arr[] so that arr[i] = j is changed to arr[j] = i
+
+```
+a[] = {0, 5, 1, 2, 4, 3}
+Output: 0 3 5 1 4 2
+Explanation: After reshuffling, the modified 
+position of all the students would be 
+{0, 3, 5, 1, 4, 2}
+```
+
 ### Code [Python3]
 
 ```python
@@ -21,6 +30,7 @@ class Solution:
 ```
 
 > Time Complexity = O(N)
+
 > Space Complexity = O(1)
 
 
