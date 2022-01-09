@@ -9,6 +9,17 @@ categories:
 
 > Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last using efficient time complexity. 
 
+```
+Input: 
+N = 5
+arr[]= {0 2 1 2 0}
+Output:
+0 0 1 2 2
+Explanation:
+0s 1s and 2s are segregated 
+into ascending order.
+```
+
 ### Code [python]
 
 ```python3
@@ -34,5 +45,3 @@ class Solution:
 > Time Complexity = O(N)
 
 > Space Complexity = O(1)
-
-```
