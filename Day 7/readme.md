@@ -25,11 +25,9 @@ and 9th number is 10.
 ```python
 class Solution:
     def findNth(self,N):
-        #code here
         ans=0
         p=1
         n=N
-        
         while(n>0):
             ans += p*(n%9)
             n//=9
@@ -41,5 +39,3 @@ class Solution:
 > Time Complexity = O(log N)
               
 > Space Complexity = O(1)
-
-
