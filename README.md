@@ -13,7 +13,7 @@
 |6| Geeks and his classmates | Rearrange Array with space complexity of O(1)| Python|  <a href="https://practice.geeksforgeeks.org/problems/47e5aa3f32aee9e0405f04960f37c8a562d96a2f/1">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day%206">View Code</a>|
 |7| Nth Natural Number | Base 9 | Python |  <a href="https://practice.geeksforgeeks.org/problems/nth-natural-number/1">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day%207">View Code</a>|
 |8| Count all possible paths| Dynamic Programming | Python |  <a href="https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day%208">View Code</a>|
-|9||| Python |  <a href="https://practice.geeksforgeeks.org/problems/10471201e923a0b88a0c1482e6c7e8cc6fdfe93a/1">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/blob/main/Day%201/readme.md">View Code</a>|
+|9| Juggling Algorithm | Array Rotation | Python |  <a href="https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day%209">View Code</a>|
 |10||||||
 |11||||||
 |12||||||
