@@ -8,6 +8,19 @@ categories:
 ### Question
 
 > Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum. A subarray is a contiguous part of an array.
+
+```
+Input:
+N = 5
+Arr[] = {1,2,3,-2,5}
+Output:
+9
+Explanation:
+Max subarray sum is 9
+of elements (1, 2, 3, -2, 5) which 
+is a contiguous subarray.
+```
+
 ### Code [Python3]
 
 ```python
@@ -25,6 +38,7 @@ class Solution:
 ```
 
 > Time Complexity = O(N)
+
 > Space Complexity = O(1)
 
 
