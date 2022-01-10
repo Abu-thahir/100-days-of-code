@@ -19,6 +19,18 @@ we will merge these two and return [1,4],
 [6,8], [9,10].
 ```
 
+### Pseudocode 
+```
+1) Sort all intervals in increasing order of start time.
+2) Traverse sorted intervals starting from first interval, 
+   do following for every interval.
+      a) If current interval is not first interval and it 
+         overlaps with previous interval, then merge it with
+         previous interval. Keep doing it while the interval
+         overlaps with the previous one.         
+      b) Else add current interval to output list of intervals.
+```      
+
 ### Code [python]
 
 ```python3
