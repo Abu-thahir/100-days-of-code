@@ -19,6 +19,21 @@ Explanation: Repeating number is 2 and
 smallest positive missing number is 1.
 ```
 
+```
+Approach:
+
+Let x be the missing and y be the repeating element.
+Let N is the size of array.
+Get the sum of all numbers using formula S = N(N+1)/2
+Get the sum of square of all numbers using formula Sum_Sq = N(N+1)(2N+1)/6
+Iterate through a loop from i=1….N
+S -= A[i]
+Sum_Sq -= (A[i]*A[i])
+It will give two equations 
+x-y = S – (1) 
+x^2 – y^2 = Sum_sq 
+x+ y = (Sum_sq/S) – (2) 
+```
 ### Code [python]
 
 ```python3
