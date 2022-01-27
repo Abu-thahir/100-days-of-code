@@ -31,7 +31,7 @@
 |24| Moore Majority Voting Algorithm | Majority Element i.e the ele occurs more than n/2 times | Python |<a href="https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_24">View Code</a>|
 |25| 4 SUM | Find all the unique quadruple = SUM  | Python|<a href="https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_25">View Code</a>|
 |26| Largest subarray with 0 sum | compute the length of the largest subarray with sum 0 | Python |  <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_26">GeeksForGeeks</a> | <a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">View Code</a>|
-|27||||||
+|27| Length of the longest substring | find the length of the longest substring without repeating characters | Python |  <a href="https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_27">View Code</a>|
 |28||||||
 |29||||||
 |30||||||
