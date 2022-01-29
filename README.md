@@ -33,7 +33,7 @@
 |26| Largest subarray with 0 sum | compute the length of the largest subarray with sum 0 | Python |  <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_26">GeeksForGeeks</a> | <a href="https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">View Code</a>|
 |27| Length of the longest substring | find the length of the longest substring without repeating characters | Python |  <a href="https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_27">View Code</a>|
 |28| Merge two sorted linked lists | The task is to merge both of the list | Python |  <a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_28">View Code</a>|
-|29||||||
+|29| Find middle of LinkedList | Finding middle element in a linked list | Python |  <a href="https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1/#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_29">View Code</a>|
 |30||||||
 |31||||||
 |32||||||
