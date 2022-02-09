@@ -9,8 +9,9 @@ categories:
 
 > Given a connected undirected graph. Perform a Depth First Traversal of the graph.
 ```
-![alt text](https://github.com/Abu-thahir/100-days-of-code/blob/main/images/download.png?raw=true)
+INPUT :
 ```
+![alt text](https://github.com/Abu-thahir/100-days-of-code/blob/main/images/download.png?raw=true)
 
 ### Code [python]
 
