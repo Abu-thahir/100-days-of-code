@@ -1,6 +1,6 @@
 ---
-title: "DFS"
-description: "Perform a Depth First Traversal of the graph."
+title: "BFS and DFS"
+description: "Perform a BFS and DFS of the graph."
 categories:
   - Graph
 ---
@@ -8,14 +8,39 @@ categories:
 ### Question
 
 > Given a connected undirected graph. Perform a Depth First Traversal of the graph.
----
-INPUT :
----
+
 ![alt text](https://github.com/Abu-thahir/100-days-of-code/blob/main/images/download.png?raw=true)
 
 ### Code [python]
+```python3
+---
+BFS
+---
+import queue
+class Solution:
+    
+    #Function to return Breadth First Traversal of given graph.
+    def bfsOfGraph(self, V, adj):
+        visited = [False for i in range(len(adj))]
+        li = []
+        q = queue.Queue()
+        q.put(0)
+        visited[0] = True
+        while not q.empty():
+            s = q.get()
+            li.append(s)
+            visited[s] = True
+            for j in adj[s]:
+                if visited[j] == False:
+                    q.put(j)
+                    visited[j] = True
+        return li
+```
 
 ```python3
+---
+DFS
+---
 class Solution:
     
     #Function to return a list containing the DFS traversal of the graph.
@@ -30,8 +55,8 @@ class Solution:
         res = []
         dfs(0, visited, adj, res)
         return res
-
-#{ 
+```
+```python3 
 #  Driver Code Starts
 if __name__ == '__main__':
     T=int(input())
@@ -48,8 +73,8 @@ if __name__ == '__main__':
             print(ans[i],end=" ")
         print()
         T-=1
-
 ```
+
 
 > Time Complexity = O(V + E)
 
