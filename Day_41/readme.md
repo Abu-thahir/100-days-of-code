@@ -12,7 +12,7 @@ categories:
 ```
 Input:
 ```
-![alt text](https://github.com/Abu-thahir/100-days-of-code/blob/main/images/detect cycle.png?raw=true)
+![alt text](https://github.com/Abu-thahir/100-days-of-code/blob/main/images/detect%20cycle.png?raw=true)
 ```
 Output: 1
 Explanation: 3 -> 3 is a cycle
