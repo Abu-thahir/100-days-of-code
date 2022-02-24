@@ -34,7 +34,7 @@
 |27| Length of the longest substring | find the length of the longest substring without repeating characters | Python |  <a href="https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_27">View Code</a>|
 |28| Merge two sorted linked lists | The task is to merge both of the list | Python |  <a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_28">View Code</a>|
 |29| Find middle of LinkedList | Finding middle element in a linked list | Python |  <a href="https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1/#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_29">View Code</a>|
-|30||||||
+|30| Reverse a linked list| The task is to reverse this list | Python |  <a href="https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_30">View Code</a>|
 |31||||||
 |32||||||
 |33||||||
