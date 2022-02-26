@@ -36,7 +36,7 @@
 |29| Find middle of LinkedList | Finding middle element in a linked list | Python |  <a href="https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1/#">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_29">View Code</a>|
 |30| Reverse a linked list| The task is to reverse this list | Python |  <a href="https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_30">View Code</a>|
 |31| | | Python |  <a href="">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_31">View Code</a>|
-|32||||||
+|32| | | Python |  <a href="">GeeksForGeeks</a> | <a href="https://github.com/Abu-thahir/100-days-of-code/tree/main/Day_31">View Code</a>|
 |33||||||
 |34||||||
 |35||||||
